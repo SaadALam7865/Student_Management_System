@@ -1,4 +1,4 @@
-Student Management System
+##Student Management System
 
 A simple yet powerful Student Management System built with Python, Streamlit, and object-oriented programming (OOP). This web application allows users to add, view, search, update, and delete student records through a visually appealing interface. Data is persistently stored in a JSON file (students.json) and a text file (std_data.txt).
 
